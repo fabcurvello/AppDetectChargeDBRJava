@@ -58,5 +58,6 @@ public class MainActivity extends AppCompatActivity {
         // Cancelar o registro do BroadcastReceiver ao destruir a atividade
         unregisterReceiver(powerReceiver);
     }
-
 }
+
+
